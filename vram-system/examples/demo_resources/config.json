@@ -1,0 +1,13 @@
+{
+  "wifi_ssid": "VRAM_Test_Network",
+  "wifi_password": "test123456",
+  "server_url": "http://192.168.1.100:5000",
+  "buffer_size": 1024,
+  "timeout_ms": 5000,
+  "memory_threshold": 90,
+  "cleanup_percentage": 30,
+  "cache_size_kb": 256,
+  "debug_mode": true,
+  "auto_reconnect": true,
+  "max_retries": 3
+}
