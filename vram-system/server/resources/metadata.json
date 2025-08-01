@@ -1,0 +1,37 @@
+{
+  "resources": {
+    "lib_sensor": {
+      "size": 59,
+      "hash": "f0b5c8de5306f793d87c83db1c6537c7abe9691a8a484f98331f42c492abb28a",
+      "category": "library",
+      "priority": 2,
+      "created": "2025-08-01T06:47:18.248255",
+      "last_accessed": "2025-08-01T06:47:18.248258",
+      "access_count": 0,
+      "version": 1
+    },
+    "data_sample": {
+      "size": 65,
+      "hash": "75e46a7ca97e219b546c1417bdedf9664da17c7710e1bb066ceae65586d5d12c",
+      "category": "data",
+      "priority": 3,
+      "created": "2025-08-01T06:47:18.248494",
+      "last_accessed": "2025-08-01T06:47:18.248497",
+      "access_count": 0,
+      "version": 1
+    },
+    "ui_strings": {
+      "size": 77,
+      "hash": "0e3c682aaa7910690e3d614f2a4252ac771ba8c4603f77d8d5876ffac9762531",
+      "category": "ui",
+      "priority": 2,
+      "created": "2025-08-01T06:47:18.248855",
+      "last_accessed": "2025-08-01T06:47:18.248858",
+      "access_count": 0,
+      "version": 1
+    }
+  },
+  "version": "1.0.0",
+  "created": "2025-08-01T06:47:18.245237",
+  "last_updated": "2025-08-01T18:02:07.507262"
+}
